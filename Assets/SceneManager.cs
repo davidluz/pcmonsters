@@ -28,6 +28,10 @@ public class SceneManager : MonoBehaviour {
 			Application.LoadLevel ("Scene3");
 		}
 
+		if (sceneNumber == 4) {
+			Application.LoadLevel ("Scene4");
+		}
+
 		}
 
 }
