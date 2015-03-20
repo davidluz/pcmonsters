@@ -1,16 +1,17 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class CollisionDetect : MonoBehaviour {
+public class Colisor : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
 	
+
 	}
-	
+
+
 	// Update is called once per frame
 	void Update () {
 	
 	}
 }
-

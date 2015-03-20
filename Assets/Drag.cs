@@ -20,4 +20,21 @@ public class Drag : MonoBehaviour {
 					Vector3 worldPos = Camera.main.ScreenToWorldPoint(curPos);
 				transform.position = worldPos;
 			}
+
+	void OnCollisionEnter2D(Collision2D collision){
+		
+		
+		Tipo tipoDoElemento = collision.gameObject.GetComponent<Tipo>();
+		
+		if(tipoDoElemento != null){
+			
+			if((tipoDoElemento.tipo == Tipo.Elemento.Tiro)){
+
+				Application.LoadLevel("Scene5");
+				
+			}
+			
+		}
+	}
+
 	}

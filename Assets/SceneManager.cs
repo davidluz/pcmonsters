@@ -32,6 +32,10 @@ public class SceneManager : MonoBehaviour {
 			Application.LoadLevel ("Scene4");
 		}
 
+		if (sceneNumber == 5) {
+			Application.LoadLevel ("Scene5");
+		}
+
 		}
 
 }

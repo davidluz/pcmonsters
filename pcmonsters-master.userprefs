@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\DeletaPrefab.cs">
+    <Files>
+      <File FileName="Assets\Resources\Scripts\GeradorGameObjects.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Scripts\FimDeTela.cs" Line="1" Column="1" />
+      <File FileName="Assets\DeletaPrefab.cs" Line="28" Column="1" />
+      <File FileName="Assets\Tipo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Drag.cs" Line="1" Column="1" />
+      <File FileName="Assets\Colisor.cs" Line="1" Column="1" />
+      <File FileName="Assets\CollisionDetect.cs" Line="1" Column="1" />
+      <File FileName="Assets\SceneManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\V4\pcmonsters-master\pcmonsters-master\Assets\DeletaPrefab.cs" line="9" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

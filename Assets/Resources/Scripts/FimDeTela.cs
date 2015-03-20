@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class CollisionDetect : MonoBehaviour {
+public class FimDeTela : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
@@ -12,5 +12,7 @@ public class CollisionDetect : MonoBehaviour {
 	void Update () {
 	
 	}
-}
 
+
+
+}
